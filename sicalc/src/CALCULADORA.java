@@ -38,7 +38,25 @@ public class CALCULADORA {
 		System.out.println("a soma eh: " + (valor1 + valor2));
 	}
 
+	public void subtrair (){
 
+		System.out.println("a subtração eh: " + (valor1 - valor2));
+
+	}
+	public void dividir(){
+
+		System.out.println("a divisão eh: " + (valor1 / valor2));
+	}
+
+	public void multiplicar(){
+
+		System.out.println("a multiplicação eh: " + (valor1 * valor2));
+
+	}
 
 }
+
+
+
+
 
